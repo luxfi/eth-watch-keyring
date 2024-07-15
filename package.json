@@ -1,7 +1,6 @@
 {
   "name": "@luxfi/eth-watch-keyring",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
@@ -23,5 +22,6 @@
   },
   "devDependencies": {
     "typescript": "^4.4.4"
-  }
+  },
+  "description": ""
 }
