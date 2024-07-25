@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/eth-watch-keyring",
-  "version": "1.0.0",
+  "name": "@luxwallet/eth-watch-keyring",
+  "version": "1.8.11",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
